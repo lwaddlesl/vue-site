@@ -16,8 +16,9 @@ export default {
 </script>
 <style lang="scss">
 .dropdown {
-  margin-top: 30px;
-  margin-right: 30px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
 
   .filter {
     width: 120px;
